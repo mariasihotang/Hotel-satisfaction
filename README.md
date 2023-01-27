@@ -12,4 +12,3 @@ Hotels are for those who desire to travel or who want a place to stay while on v
 ## Business goals:
 1. Increase the satisfaction level of hotel service.
 2. Find the hidden pattern from satisfied customer and neutral/dissastified customer.
-3. Predict the customer is satisfied and neutral/dissatisfied customer.
