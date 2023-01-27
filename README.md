@@ -1,7 +1,7 @@
 # Hotel-satisfaction
 This dataset is taken from kaggle : https://www.kaggle.com/datasets/ishansingh88/europe-hotel-satisfaction-score
 
-# Background:
+## Background:
 Hotels are for those who desire to travel or who want a place to stay while on vacation. Customers will progressively quit the hotel if it is inconvenient, though. After that, the hotels had no revenue. The hotel DS is one of the accommodations and is situated on the continent of Europe. This hotel's customer satisfaction rating is under 50%, and it continues to lose business. We must ascertain what causes the guest to feel uneasy while staying at this hotel as a result.
 
 ## Problem statement:
